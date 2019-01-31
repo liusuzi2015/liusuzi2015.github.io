@@ -1,5 +1,5 @@
 ---
-title: geb
+title: GEB
 date: 2019-01-30 14:10:33
 categories: 思考
 tags: 思考

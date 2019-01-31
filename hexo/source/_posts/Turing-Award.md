@@ -1,6 +1,7 @@
 ---
 title: Turing_Award
 date: 2019-01-30 21:40:13
+categories: 致敬经典
 tags: 致敬经典
 ---
 

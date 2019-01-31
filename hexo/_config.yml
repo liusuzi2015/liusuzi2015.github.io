@@ -79,5 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: git@github.com:liusuzi2015/liusuzi2015.github.io.git
+  repo: 
+    github: git@github.com:liusuzi2015/liusuzi2015.github.io.git
+    coding: git@git.dev.tencent.com:liusuzi/blog.git
   branch: master

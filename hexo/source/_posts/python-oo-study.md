@@ -12,6 +12,7 @@ tags: python
 ### 1.1 oo的通用概念
 
 
+
 ### 1.2 python中oo的特殊之处
 
 

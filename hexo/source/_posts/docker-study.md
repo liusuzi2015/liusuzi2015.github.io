@@ -54,6 +54,43 @@ is created.
 
 ![](docker-study/architecture.png)
 
+***
+
+![](docker-study/docker_daemon.png)
+
+***
+
+![](docker-study/driver.png)
+
+***
+
+![](docker-study/exec_driver.png)
+
+***
+
+![](docker-study/libcontainer.png)
+
+***
+
+![](docker-study/network_driver.png)
+
+***
+
+![](docker-study/网络模式.png)
+
+***
+
+![](docker-study/graph_driver.png)
+
+***
+
+![](docker-study/graph.png)
+
+***
+
+![](docker-study/registry.png)
+
+
 ### 1.2 今生
 
 

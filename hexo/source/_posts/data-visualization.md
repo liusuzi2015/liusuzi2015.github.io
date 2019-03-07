@@ -17,6 +17,72 @@ D3 提供了各种简单易用的函数，大大简化了 JavaScript 操作数�
 
 D3 是一个开源项目，作者是纽约时报的工程师。D3 项目的代码托管于 GitHub。
 
+#### 1.1.1 D3初阶
+
+##### 1.1.1.1 第一个程序Hello World
+
+```javascript
+<html> 
+  <head> 
+        <meta charset="utf-8"> 
+        <title>HelloWorld</title> 
+  </head> 
+    <body> 
+        <p>Hello World 1</p>
+        <p>Hello World 2</p>
+    </body> 
+</html>
+```
+
+如果想用JavaScript来更改这两行文字:
+
+```javascript
+
+<html> 
+  <head> 
+        <meta charset="utf-8"> 
+        <title>HelloWorld</title> 
+  </head> 
+    <body> 
+    <p>Hello World 1</p>
+    <p>Hello World 2</p>
+        <script>
+        var paragraphs = document.getElementsByTagName("p");
+        for (var i = 0; i < paragraphs.length; i++) {
+          var paragraph = paragraphs.item(i);
+          paragraph.innerHTML = "I like dog.";
+        }          
+        </script> 
+    </body> 
+</html>
+```
+
+如果使用D3.js呢
+
+```javascript
+<html> 
+  <head> 
+        <meta charset="utf-8"> 
+        <title>HelloWorld</title> 
+  </head> 
+    <body> 
+        <p>Hello World 1</p>
+        <p>Hello World 2</p>
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script> 
+        <script>  
+        d3.select("body").selectAll("p").text("www.ourd3js.com");      
+        </script> 
+    </body> 
+</html>
+```
+
+
+#### 1.1.2 D3中阶
+
+
+
+#### 1.1.3 D3高阶
+
 
 
 ### 1.2 python数据可视化

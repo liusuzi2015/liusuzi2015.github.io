@@ -2,7 +2,7 @@
 title: Simons_Fund
 date: 2019-04-08 20:40:58
 categories: 金融
-tags:基金
+tags: 基金
 
 ---
 
@@ -43,5 +43,4 @@ Simons 博士和他的妻子 Marilyn。Marilyn 是一位经济学家，也是他
 
 
 ## 3 Simons基金类型深入研究
-
 

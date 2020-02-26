@@ -6,60 +6,10 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.cikexiaoliu.com/"/>
-  <updated>2020-02-26T00:09:12.297Z</updated>
+  <updated>2020-02-26T00:12:42.076Z</updated>
   <id>http://www.cikexiaoliu.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>math_and_physics</title>
-    <link href="http://www.cikexiaoliu.com/2020/02/26/math-and-physics/"/>
-    <id>http://www.cikexiaoliu.com/2020/02/26/math-and-physics/</id>
-    <published>2020-02-25T23:56:28.000Z</published>
-    <updated>2020-02-26T00:09:12.297Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="1-数学演进历史"><a href="#1-数学演进历史" class="headerlink" title="1 数学演进历史"></a>1 数学演进历史</h2><p><img src="/2020/02/26/math-and-physics/math1.png" alt=""></p><h2 id="2-数学的用处"><a href="#2-数学的用处" class="headerlink" title="2 数学的用处"></a>2 数学的用处</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;1-数学演进历史&quot;&gt;&lt;a href=&quot;#1-数学演进历史&quot; class=&quot;headerlink&quot; title=&quot;1 数学演进历史&quot;&gt;&lt;/a&gt;1 数学演进历史&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/2020/02/26/math-and-physics/math1.p
-      
-    
-    </summary>
-    
-      <category term="数学" scheme="http://www.cikexiaoliu.com/categories/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-      <category term="数学演变" scheme="http://www.cikexiaoliu.com/tags/%E6%95%B0%E5%AD%A6%E6%BC%94%E5%8F%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>sonarqube-study</title>
-    <link href="http://www.cikexiaoliu.com/2020/02/25/sonarqube-study/"/>
-    <id>http://www.cikexiaoliu.com/2020/02/25/sonarqube-study/</id>
-    <published>2020-02-25T00:12:25.000Z</published>
-    <updated>2020-02-25T23:57:38.884Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="1-sonarqube介绍"><a href="#1-sonarqube介绍" class="headerlink" title="1 sonarqube介绍"></a>1 sonarqube介绍</h2><p><a href="https://www.sonarqube.org" target="_blank" rel="noopener">SonarQube 官网</a></p><h2 id="2-sonarqube插件介绍"><a href="#2-sonarqube插件介绍" class="headerlink" title="2 sonarqube插件介绍"></a>2 sonarqube插件介绍</h2><h2 id="3-sonarqube实例"><a href="#3-sonarqube实例" class="headerlink" title="3 sonarqube实例"></a>3 sonarqube实例</h2><h3 id="3-1-使用数据库"><a href="#3-1-使用数据库" class="headerlink" title="3.1 使用数据库"></a>3.1 使用数据库</h3><h2 id="4-sonarqube二次开发"><a href="#4-sonarqube二次开发" class="headerlink" title="4 sonarqube二次开发"></a>4 sonarqube二次开发</h2><h2 id="5-sonarqube原理介绍"><a href="#5-sonarqube原理介绍" class="headerlink" title="5 sonarqube原理介绍"></a>5 sonarqube原理介绍</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;1-sonarqube介绍&quot;&gt;&lt;a href=&quot;#1-sonarqube介绍&quot; class=&quot;headerlink&quot; title=&quot;1 sonarqube介绍&quot;&gt;&lt;/a&gt;1 sonarqube介绍&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.sonar
-      
-    
-    </summary>
-    
-      <category term="计算机科学" scheme="http://www.cikexiaoliu.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/"/>
-    
-    
-      <category term="代码质量度量" scheme="http://www.cikexiaoliu.com/tags/%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E5%BA%A6%E9%87%8F/"/>
-    
-  </entry>
   
   <entry>
     <title>rocket</title>
